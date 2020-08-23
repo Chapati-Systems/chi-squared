@@ -1,6 +1,9 @@
 # TODO: Write documentation for `Chi::Squared`
-module Chi::Squared
+module ChiSquared
   VERSION = "0.1.0"
 
-  # TODO: Put your code here
+  # Test the two arrays
+  def test(observed, expected)
+
+  end
 end
