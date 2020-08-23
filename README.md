@@ -1,5 +1,7 @@
 # chi-squared
 
+[![Build Status](https://travis-ci.org/CMiksche/chi-squared.svg?branch=master)](https://travis-ci.org/CMiksche/chi-squared)
+
 A Crystal shard for making a chi square test
 
 ## Installation
