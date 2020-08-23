@@ -20,11 +20,10 @@ A Crystal shard for making a chi square test
 require "chi-squared"
 ```
 
-TODO: Write usage instructions here
+Look at the tests for good examples. E.g.
 
-## Development
-
-TODO: Write development instructions here
+    test = ChiSquared::Test.new([1,2,3], [2,3,3])
+    test.result.should eq(0.8333333333333333)
 
 ## Contributing
 
