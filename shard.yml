@@ -1,0 +1,9 @@
+name: chi-squared
+version: 0.1.0
+
+authors:
+  - Christoph Daniel Miksche <christoph@miksche.org>
+
+crystal: 0.35.1
+
+license: MIT
