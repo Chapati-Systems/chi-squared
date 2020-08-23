@@ -3,7 +3,6 @@ module ChiSquared
   VERSION = "0.1.0"
 
   class Test
-
     # Test the two arrays
     def initialize(observed, expected)
       @result = 0.0
@@ -16,9 +15,8 @@ module ChiSquared
       end
     end
 
-    def result: Float
-       @result
+    def result : Float
+      @result
     end
-
   end
 end
