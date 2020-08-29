@@ -24,8 +24,10 @@ require "chi-squared"
 
 Look at the tests for good examples. E.g.
 
-    test = ChiSquared::Test.new([1,2,3], [2,3,3])
-    test.result.should eq(0.8333333333333333)
+```crystal
+test = ChiSquared::Test.new([1,2,3], [2,3,3])
+test.result.should eq(0.8333333333333333)
+```
 
 ## Contributing
 
