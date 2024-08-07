@@ -2,7 +2,7 @@ name: chi-squared
 version: 0.1.0
 
 authors:
-  - Christoph Daniel Miksche <christoph@miksche.org>
+  - Christoph Daniel Miksche <crystal@miksche.org>
 
 crystal: "*"
 
