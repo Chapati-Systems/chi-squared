@@ -1,7 +1,5 @@
 # chi-squared
 
-[![Build Status](https://cloud.drone.io/api/badges/CMiksche/chi-squared/status.svg)](https://cloud.drone.io/CMiksche/chi-squared)
-
 A Crystal shard for making a chi square test
 
 ## Installation
